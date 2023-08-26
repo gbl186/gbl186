@@ -2,3 +2,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0970. ♻️ chore: update .gitignore
 0709. ♻️ chore: bump dependencies
+0779. 🔧 refactor: organize models into subfolders
