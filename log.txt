@@ -4,3 +4,4 @@
 0709. ♻️ chore: bump dependencies
 0779. 🔧 refactor: organize models into subfolders
 0471. ✨ feat: support email verification
+0926. 🔧 refactor: organize models into subfolders
