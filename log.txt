@@ -10,3 +10,4 @@
 0516. ✅ test: add unit test for quiz service
 0637. 🎨 style: apply consistent indentation
 0635. 🎨 style: apply consistent indentation
+0506. 🐛 fix: handle 500 error in quiz API
