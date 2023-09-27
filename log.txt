@@ -15,3 +15,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0272. 🔧 refactor: remove redundant code blocks
 0354. 📚 docs: add API usage examples
+0178. ✨ feat: support email verification
