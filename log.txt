@@ -41,3 +41,4 @@
 0443. 🎨 style: standardize quote style
 0543. ✨ feat: support email verification
 0820. 📚 docs: add API usage examples
+0011. ✅ test: add unit test for quiz service
