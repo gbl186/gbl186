@@ -45,3 +45,4 @@
 0100. ♻️ chore: update .gitignore
 0869. ♻️ chore: bump dependencies
 0455. ♻️ chore: clean up unused files
+0020. ✅ test: add integration test for /submit endpoint
