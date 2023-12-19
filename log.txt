@@ -46,3 +46,4 @@
 0869. ♻️ chore: bump dependencies
 0455. ♻️ chore: clean up unused files
 0020. ✅ test: add integration test for /submit endpoint
+0253. 📚 docs: update README with setup steps
