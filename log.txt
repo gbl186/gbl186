@@ -47,3 +47,4 @@
 0455. ♻️ chore: clean up unused files
 0020. ✅ test: add integration test for /submit endpoint
 0253. 📚 docs: update README with setup steps
+0225. 🚀 perf: reduce image load time
