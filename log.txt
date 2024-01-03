@@ -50,3 +50,4 @@
 0225. 🚀 perf: reduce image load time
 0226. 🚀 perf: lazy-load components
 0392. 🎨 style: remove trailing whitespace
+0201. 🔧 refactor: clean up auth middleware
