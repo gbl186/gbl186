@@ -62,3 +62,4 @@
 0044. ✅ test: add unit test for quiz service
 0865. ♻️ chore: add GitHub actions badge
 0975. 🎨 style: apply consistent indentation
+0855. 🎨 style: reformat files with black
