@@ -78,3 +78,4 @@
 0574. ✨ feat: enable dark mode toggle
 0945. ♻️ chore: add GitHub actions badge
 0089. 🔧 refactor: remove redundant code blocks
+0766. 🎨 style: reformat files with black
