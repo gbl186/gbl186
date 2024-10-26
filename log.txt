@@ -104,3 +104,4 @@
 0404. 📚 docs: improve code comments in utils
 0022. 📚 docs: document token refresh logic
 0681. ✨ feat: create admin dashboard
+0479. 🐛 fix: fix null pointer exception on login
