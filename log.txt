@@ -113,3 +113,4 @@
 0393. 🚀 perf: lazy-load components
 0883. 📚 docs: improve code comments in utils
 0051. ✨ feat: enable dark mode toggle
+0937. 🐛 fix: handle 500 error in quiz API
