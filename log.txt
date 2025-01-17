@@ -124,3 +124,4 @@
 0678. ✨ feat: add user authentication
 0219. ✅ test: increase coverage on auth module
 0644. 🎨 style: apply consistent indentation
+0485. 📚 docs: update README with setup steps
