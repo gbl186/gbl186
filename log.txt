@@ -142,3 +142,4 @@
 0669. ✨ feat: enable dark mode toggle
 0686. 🎨 style: standardize quote style
 0199. ✨ feat: create admin dashboard
+0626. 🎨 style: standardize quote style
