@@ -150,3 +150,4 @@
 0886. ♻️ chore: clean up unused files
 0399. ✅ test: mock database connection in test suite
 0897. 🐛 fix: prevent crash on empty input
+0264. 🚀 perf: optimize database query for quiz results
