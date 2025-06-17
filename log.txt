@@ -159,3 +159,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0112. ✨ feat: enable dark mode toggle
 0915. 🚀 perf: cache repeated calculations
+0957. 🐛 fix: fix null pointer exception on login
