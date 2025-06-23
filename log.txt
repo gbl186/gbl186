@@ -160,3 +160,4 @@
 0112. ✨ feat: enable dark mode toggle
 0915. 🚀 perf: cache repeated calculations
 0957. 🐛 fix: fix null pointer exception on login
+0218. 🔧 refactor: clean up auth middleware
