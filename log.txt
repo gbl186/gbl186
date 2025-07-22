@@ -168,3 +168,4 @@
 0749. ✨ feat: support email verification
 0457. 🐛 fix: handle 500 error in quiz API
 0734. ✨ feat: add export to CSV option
+0818. 🔧 refactor: remove redundant code blocks
