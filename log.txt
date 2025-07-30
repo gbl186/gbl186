@@ -170,3 +170,4 @@
 0734. ✨ feat: add export to CSV option
 0818. 🔧 refactor: remove redundant code blocks
 0408. ♻️ chore: add GitHub actions badge
+0845. 🚀 perf: cache repeated calculations
