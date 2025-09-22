@@ -178,3 +178,4 @@
 0858. ♻️ chore: clean up unused files
 0230. ✨ feat: create admin dashboard
 0627. 📚 docs: document token refresh logic
+0967. ♻️ chore: add GitHub actions badge
