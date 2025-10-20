@@ -183,3 +183,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0829. 🔧 refactor: organize models into subfolders
 0274. 🔧 refactor: refactor quiz grading logic
+0279. ✨ feat: support email verification
