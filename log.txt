@@ -185,3 +185,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0279. ✨ feat: support email verification
 0060. ♻️ chore: clean up unused files
+0091. ✨ feat: add user authentication
