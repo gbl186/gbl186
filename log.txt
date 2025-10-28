@@ -187,3 +187,4 @@
 0060. ♻️ chore: clean up unused files
 0091. ✨ feat: add user authentication
 0283. ♻️ chore: add GitHub actions badge
+0383. 🐛 fix: fix broken CSS in mobile view
