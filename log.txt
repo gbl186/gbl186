@@ -189,3 +189,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0383. 🐛 fix: fix broken CSS in mobile view
 0165. 🎨 style: remove trailing whitespace
+0594. 🎨 style: reformat files with black
