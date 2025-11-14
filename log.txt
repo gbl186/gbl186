@@ -191,3 +191,4 @@
 0165. 🎨 style: remove trailing whitespace
 0594. 🎨 style: reformat files with black
 0335. ♻️ chore: update .gitignore
+0377. ✨ feat: add user authentication
